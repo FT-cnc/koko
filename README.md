@@ -8,6 +8,27 @@ Ada baiknya kerja berkeringat seperti ini buat menurunkan gula darah. Semenjak b
 Kerjaan Yus sangat diarahkan ke sayur mayur yang datang segar terkadang dengan bongkahan es di dalam kotaknya. Memang perlu sarung tangan supaya tangan tidak keram karena dingin. 
 Yus bekerja enam hari seminggu, 6 sampe 8 jam sehari. Masuk jam enam pagi sewaktu jumat, sabtu dan minggu. Hari lainnya jam tujuh. Awalnya selalu libur kemis, belakangan libur senin.
 
+## Maksud Utama Membagi Cerita Ini 
+Pertama tama, ada baiknya Yus ceritakan tujuan utama dari cerita berikut. Memang ada terkait dengan pencatatan inventory, stock level, automatic reorder ataupun expired notification dan lain sebagainya. Prediksi demand dan supply memang sangat kompleks karena bukan hanya tergantung dari kesetiaan pelanggan ataupun tingkat kehadiran/motivasi karyawan yang tugasnya rutin menjalankan operasai sehari hari, namun juga tergantung dari unsur politik (anjuran membeli produck lokal dimana barang asing masih jauh lebih murah dan lebih bagus) dan keterbatasan klasik seperti semakin kecilnya gudang dari toko sementara distribution center rentan menyorong kelebihan barang ke semua toko.
+
+### Kesetiaan Pelanggan
+Dengan meningkatnya inflasi dan biaya hidup ada akibatnya hal ini menimbulkan masalah baru dan juga peluang baru. Ambil contoh negara singapore yang mana Yus sempat bekerja akhir taon 90an. Coba simak tingkat kompensasi karyawan di sana. Jujur, banyak gaji pegawai biasa dari statistik di bawah menunjukkan tidak banyak berubahnya pendapatan selama lebih dari 25 tahun terakhir. 
+
+![Description of gif](https://github.com/FT-cnc/koko/blob/main/image5.jpeg?raw=true).
+
+Coba bandingkan dengan UMR di DKI, setidaknya gaji karyawan bisa naik puluhan kali lipat dalam kurung waktu yang sama. Bagi mereka yang punya spending power lebih besar tidak pernah pusing mencari barang murahan. Atau bisa jadi juga bagi mereka yang dibesarkan dari lingkungan sederhana, betapa besarnya income/saving nya tetap aja mereka sangat [**hati hati belanja**](https://colab.research.google.com/drive/1HpR8_-ui5gHZwDNVXjsHyiys8EkRUs3I#scrollTo=5MCn6m648yV-)   
+
+Balik lagi ke segi kesetiaan pelanggan, dengan majunya dunia online, toko toko fisik memang banyak yang gulung tikar. Namun tetap aja ada beberapa pangsa pasar yang menawarkan customer experience yang berbeda. Tempat Yus bekerja lebih terasa seperti museum atau gathering point karena barang kita tidak murah, kamar mandinya bersih seperti kelas hotel bintang lima dan pelayanan kita juga sangat lain dengan toko toko obral lainnya. Boleh dibilang bisnis di tokonya Yus ini tidak pernah kuatir dengan resesi karena mayoritas pelanggan kita adalah para manula yang masih kuat jalan dan tidak pusing mau spending berapa aja. Tentu kita punya competitor, namun boleh dibilang untuk sementara ini kita masih bisa membuka 2-3 toko baru dari total 40 toko yang sudah ada.
+
+### Motivasi Karyawan
+Yus boleh dibilang sangat self-motivated walau bukan kaya kaya banget. Sebelum bekerja di sini Yus sudah melunasi utang dan kpr. Banyak orang masih pusing mau makan apa dan bagaimana bayar sewa belum lagi makin membesarnya biaya membesarkan anak anak. Sebelum meninggalkan Indonesia, Yus beruntung sempat bekerja di Batam dan belajar banyak dari keterbatasan di pabrik dan menerapkan banyak pemikiran yang sama di toko ini. Yus juga menghadiri kulian malam di bidang mesin bubut senin sampe jumat 6 jam sehari. Dari segi tingkat kehadiran Yus bisa dibilang paling handal. Selalu hadir baik di sekolah dan tempat kerja. Memang tidak gampang buat keluarga yang terkadang merasa kesepian. Buat Yus motivasi utama bekerja di sini adalah membakar kalori.
+
+### Unsur Politik
+Memang barang barang dari Amerika Latin, Timur Tengah, Eropa dan Asia Tenggara mulai berdatangan. Perlahan lahan ketergantungan dari negara jiran mulai dikurangi. Namun selama musim dingin negara jiran masih mampu men suplai barangnya dari daerah yang beriklim tropis. Kalau cuaca mulai panas, rantai pasok beralih lagi ke petani lokal. Cinta produk lokal memang ada baiknya namun kehandalan suplai nya juga diragukan karena indoor farming masih terlalu mahal untuk dioperasikan. Belum lagi ide ide seperti vertical farming yang bukan baru namun masih terlalu [**mahal**](https://agfundernews.com/the-economics-of-local-vertical-and-greenhouse-farming-are-getting-competitive),.
+
+### Rantai Pasok
+Topik ini memang berat karena menggabungkan banyak hal terutama dari segi teknologi. Salah satunya yang paling sering di gembar gemborkan adalah kecerdasan buat dari sang mesin yang mampu memprediksi. Pencatatan inventory, stock level, automatic reorder ataupun expired notification hanya sebagian dari keseluruhan problema seputar rantai pasok. Untuk memperkecil topik pembahasan, Yus hanya akan menampilkan cerita dari kecerdasan buatan yang membantu pencatatan inventory melalu foto pertama di atas dan bagaimana list nya keluar melalui pengolahan citra. Stock Level sangat rentan dengan kualitas barang yang masuk dan bagaimana kita semua sebagai satu tim bekerja sama menangani barang barang. Contohnya Yus menangani sayur mayur, bisa jadi begitu datang barangnya udah busuk busuk atau sewaktu udah sampe lamban ditangani/dijual sampe membusuk percuma. Automatic reorder masih belum sepenuhnya berjalan. Sistem bisa memberi rekomendasi namun masuk banyak intervensi manual buat order resmi. Kiriman barang datang sangat bervariasi kualitasnya. Dunia pertanian tidak se eksak dunia semen misalnya. Kadang barang yang datang gemuk gemuk kadang kurus kering. Ini tugas Yus untuk merangkai ulang semuanya buat enak dipandang. Expired notification dari segi demand sudah berjalan baik, harga barang yang turun dalam kurung waktu tertentu bisa balik normal dan juga dari segi supply banyak petani lokal mulai menggantikan petani negara jiran belakangan ini karena menanam sayur dengan teknologi biasa sudah bisa dengan harga dan kualitas yang sama.
+
 ## Pengolahan Citra
 Dari segi teknis, ada cerita lainnya disamping keringat peluh dan angkat angkat dari kerjaan ini. Coba simak gambar di atas yang menampilkan dinamika barang barang di gudang belakang selama dua minggu terakhir.
 tentu kerja di dalam kulkas lebih tidak terasa menyiksa karena temepraturnya antara 4-5 derajat. Kalau musim panas tempat ini enak juga jadinya. 
@@ -34,7 +55,15 @@ Semakin banyak variasinya, semakin pintar kecerdasan buatan menafsirkan tiap tia
 Di bawah ini adalah salah satu contoh tulisan tangan yang di digitalisasi dengan numpy array (istilah canggih dari bahasa [**python**](https://en.wikipedia.org/wiki/NumPy)).
 Coba ligat salah satu tulisan tangan berikut dengan resolusi (176, 394) yang menampilkan tulisan Boston.
 
-![Description of gif](https://github.com/FT-cnc/koko/blob/main/image4.png?raw=true)
+```txt
+import numpy as np
+from PIL import Image
+gray_array01 = np.array(Image.open("/content/boston1.jpeg").convert("L"))
+for row in gray_array01:
+    print(' '.join(f'{int(val):03}' for val in row))
+```
+
+![Description of gif](https://github.com/FT-cnc/koko/blob/main/image6.gif?raw=true)
 
 
 (bersambung)
