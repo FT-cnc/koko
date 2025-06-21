@@ -16,9 +16,9 @@ Dengan meningkatnya inflasi dan biaya hidup ada akibatnya hal ini menimbulkan ma
 
 ![Description of gif](https://github.com/FT-cnc/koko/blob/main/image5.jpeg?raw=true).
 
-Coba bandingkan dengan UMR di DKI, setidaknya gaji karyawan bisa naik puluhan kali lipat dalam kurung waktu yang sama. Bagi mereka yang punya spending power lebih besar tidak pernah pusing mencari barang murahan. Atau bisa jadi juga bagi mereka yang dibesarkan dari lingkungan sederhana, betapa besarnya income/saving nya tetap aja mereka sangat [**hati hati belanja**](https://colab.research.google.com/drive/1HpR8_-ui5gHZwDNVXjsHyiys8EkRUs3I#scrollTo=5MCn6m648yV-)   
+Coba bandingkan dengan UMR di DKI, setidaknya gaji karyawan bisa naik puluhan kali lipat dalam kurung waktu yang sama. Bagi mereka yang punya spending power lebih besar tidak pernah pusing mencari barang murahan. Atau bisa jadi juga bagi mereka yang dibesarkan dari lingkungan sederhana, betapa besarnya income/saving nya tetap aja mereka sangat [**hati hati belanja**](https://e.vnexpress.net/news/tech/personalities/act-broke-stay-rich-world-s-youngest-self-made-woman-billionaire-lucy-guo-behind-scale-ai-shops-at-shein-commutes-in-a-honda-civic-4895788.html)   
 
-Balik lagi ke segi kesetiaan pelanggan, dengan majunya dunia online, toko toko fisik memang banyak yang gulung tikar. Namun tetap aja ada beberapa pangsa pasar yang menawarkan customer experience yang berbeda. Tempat Yus bekerja lebih terasa seperti museum atau gathering point karena barang kita tidak murah, kamar mandinya bersih seperti kelas hotel bintang lima dan pelayanan kita juga sangat lain dengan toko toko obral lainnya. Boleh dibilang bisnis di tokonya Yus ini tidak pernah kuatir dengan resesi karena mayoritas pelanggan kita adalah para manula yang masih kuat jalan dan tidak pusing mau spending berapa aja. Tentu kita punya competitor, namun boleh dibilang untuk sementara ini kita masih bisa membuka 2-3 toko baru dari total 40 toko yang sudah ada.
+Balik lagi ke segi kesetiaan pelanggan, dengan majunya dunia online, toko toko fisik memang banyak yang gulung tikar. Namun tetap aja ada beberapa pangsa pasar yang menawarkan customer experience yang berbeda. Tempat Yus bekerja lebih terasa seperti museum atau gathering point karena barang kita tidak murah, kamar mandinya bersih seperti kelas hotel bintang lima dan pelayanan kita juga sangat lain dengan toko toko obral lainnya. Boleh dibilang bisnis di tokonya Yus ini tidak pernah kuatir dengan resesi karena mayoritas pelanggan kita adalah para manula yang masih kuat jalan dan tidak pusing mau spending berapa aja. Tentu kita punya competitor, namun boleh dibilang untuk sementara ini kita masih bisa membuka 2-3 toko baru saben tahun dari total 40 toko yang sudah ada.
 
 ### Motivasi Karyawan
 Yus boleh dibilang sangat self-motivated walau bukan kaya kaya banget. Sebelum bekerja di sini Yus sudah melunasi utang dan kpr. Banyak orang masih pusing mau makan apa dan bagaimana bayar sewa belum lagi makin membesarnya biaya membesarkan anak anak. Sebelum meninggalkan Indonesia, Yus beruntung sempat bekerja di Batam dan belajar banyak dari keterbatasan di pabrik dan menerapkan banyak pemikiran yang sama di toko ini. Yus juga menghadiri kulian malam di bidang mesin bubut senin sampe jumat 6 jam sehari. Dari segi tingkat kehadiran Yus bisa dibilang paling handal. Selalu hadir baik di sekolah dan tempat kerja. Memang tidak gampang buat keluarga yang terkadang merasa kesepian. Buat Yus motivasi utama bekerja di sini adalah membakar kalori.
@@ -66,4 +66,66 @@ for row in gray_array01:
 ![Description of gif](https://github.com/FT-cnc/koko/blob/main/image6.gif?raw=true)
 
 
-(bersambung)
+Gambar di atas adalah salah satu contoh tulisan tangan yang di digitalisasi. Keseluruhan contoh yang disediakan di sini disimpan di dalam variable berikut
+```txt
+gray_array01 --> sampel tulisan tangan boston (boston lettuce) yang pertama
+gray_array02 --> sampel tulisan tangan boston (boston lettuce) yang kedua
+gray_array03 --> sampel tulisan tangan boston (boston lettuce) yang ketiga
+gray_array04 --> sampel tulisan tangan green  (green leaf lettuce) yang pertama
+gray_array05 --> sampel tulisan tangan green  (green leaf lettuce) yang kedua
+gray_array06 --> sampel tulisan tangan green  (green leaf lettuce) yang ketiga
+gray_array07 --> sampel tulisan tangan red    (red leaf lettuce) yang pertama
+gray_array08 --> sampel tulisan tangan red    (red leaf lettuce) yang kedua
+gray_array09 --> sampel tulisan tangan red    (red leaf lettuce) yang ketiga
+gray_array10 --> sampel tulisan tangan r.chard (red chard) yang pertama
+gray_array11 --> sampel tulisan tangan r.chard (red chard) yang kedua
+gray_array12 --> sampel tulisan tangan r.chard (red chard) yang ketiga
+gray_array13 --> sampel tulisan tangan g.chard (green chard) yang pertama
+gray_array14 --> sampel tulisan tangan g.chard (green chard) yang kedua
+gray_array15 --> sampel tulisan tangan g.chard (green chard) yang ketiga
+gray_array16 --> sampel tulisan tangan romaine (romaine lettuce) yang pertama
+gray_array17 --> sampel tulisan tangan romaine (romaine lettuce) yang kedua
+gray_array18 --> sampel tulisan tangan romaine (romaine lettuce) yang ketiga
+gray_array19 --> sampel tulisan tangan plain (plain parsley) yang pertama
+gray_array20 --> sampel tulisan tangan plain (plain parsley) yang kedua
+gray_array21 --> sampel tulisan tangan plain (plain parsley) yang ketiga
+gray_array22 --> sampel tulisan tangan curly (curly parsley) yang pertama
+gray_array23 --> sampel tulisan tangan curly (curly parsley) yang kedua
+gray_array24 --> sampel tulisan tangan curly (curly parsley) yang ketiga
+gray_array28 --> sampel tulisan tangan dill yang pertama
+gray_array29 --> sampel tulisan tangan dill yang kedua
+gray_array30 --> sampel tulisan tangan dill yang ketiga
+gray_array31 --> sampel tulisan tangan beet yang pertama
+gray_array32 --> sampel tulisan tangan beet yang kedua
+gray_array33 --> sampel tulisan tangan beet yang ketiga
+gray_array34 --> sampel tulisan tangan leek yang pertama
+gray_array35 --> sampel tulisan tangan leek yang kedua
+gray_array36 --> sampel tulisan tangan leek yang ketiga
+gray_array37 --> sampel tulisan tangan cilan (cilantro) yang pertama
+gray_array38 --> sampel tulisan tangan cilan (cilantro) yang kedua
+gray_array39 --> sampel tulisan tangan cilan (cilantro) yang ketiga
+gray_array40 --> sampel tulisan tangan spin (spinach) yang pertama
+gray_array41 --> sampel tulisan tangan spin (spinach) yang kedua
+gray_array42 --> sampel tulisan tangan spin (spinach) yang ketiga
+gray_array43 --> sampel tulisan tangan collard yang pertama
+gray_array44 --> sampel tulisan tangan collard yang kedua
+gray_array45 --> sampel tulisan tangan collard yang ketiga
+gray_array46 --> sampel tulisan tangan dand (dandelion) yang pertama
+gray_array47 --> sampel tulisan tangan dand (dandelion) yang kedua
+gray_array48 --> sampel tulisan tangan dand (dandelion) yang ketiga
+gray_array49 --> sampel tulisan tangan g.kale (green kale) yang pertama
+gray_array50 --> sampel tulisan tangan g.kale (green kale) yang kedua
+gray_array51 --> sampel tulisan tangan g.kale (green kale) yang ketiga
+gray_array52 --> sampel tulisan tangan b.kale (black kale) yang pertama
+gray_array53 --> sampel tulisan tangan b.kale (black kale) yang kedua
+gray_array54 --> sampel tulisan tangan b.kale (black kale) yang ketiga
+gray_array55 --> sampel tulisan tangan carr (carrot) yang pertama
+gray_array56 --> sampel tulisan tangan carr (carrot) yang kedua
+gray_array57 --> sampel tulisan tangan carr (carrot) yang ketiga
+gray_array58 --> sampel tulisan tangan endive yang pertama
+gray_array59 --> sampel tulisan tangan endive yang kedua
+gray_array60 --> sampel tulisan tangan endive yang ketiga
+gray_array61 --> sampel tulisan tangan esc (escarole) yang pertama
+gray_array62 --> sampel tulisan tangan esc (escarole) yang kedua
+gray_array63 --> sampel tulisan tangan esc (escarole) yang ketiga
+```
