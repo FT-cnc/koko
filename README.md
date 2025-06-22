@@ -129,3 +129,95 @@ gray_array61 --> sampel tulisan tangan esc (escarole) yang pertama
 gray_array62 --> sampel tulisan tangan esc (escarole) yang kedua
 gray_array63 --> sampel tulisan tangan esc (escarole) yang ketiga
 ```
+Selanjutnya Yus pilih logistic regression untuk melatih model kecerdasan buatan membedakan tulisan.
+Namun beleumnya Yus akan menggantikan dimensi gambar yang 176 X 394 menjadi satu dimensi (1 x 69344).
+
+```txt
+import numpy as np
+
+# Collect available array variables (excluding the missing ones)
+valid_indices = [i for i in range(1, 64) if i not in (25, 26, 27)]
+array_list = [globals()[f'gray_array{i:02d}'] for i in valid_indices]
+
+# Stack the arrays along a new first axis
+X_train = np.stack(array_list)
+
+print(X_train.shape)    # -->  akan memberi nilai (60, 176, 394)
+X_TRAIN=X_train.reshape(60,-1)
+y_train = np.repeat(np.arange(1, 21), 3).astype(np.uint8)
+print(X_TRAIN.shape)    # --> akan memberi nilai (60, 69344)
+print(y_train.shape)    # --> memberi nilai 60
+
+from sklearn.linear_model import LogisticRegression
+lr = LogisticRegression()
+lr.fit(X_TRAIN, y_train)
+
+```
+
+Selanjtnya kita coba menge test model ini dengan gambar gray_array13 misalnya.
+
+```txt
+lr.predict_proba(gray_array13.reshape(1,-1))
+```
+
+Yang mana hasilnya akan seperti ini
+
+```txt
+array([[1.64642986e-15, 3.71669177e-12, 6.82949909e-13, 7.64134141e-19,
+        9.99999959e-01, 4.44299443e-16, 8.02623005e-12, 3.32164451e-15,
+        9.26804467e-12, 1.41511848e-15, 2.41060830e-12, 1.51412174e-08,
+        6.32193493e-09, 3.39862388e-16, 7.77069733e-10, 3.09824108e-09,
+        2.67960481e-13, 1.52454169e-08, 4.52316575e-13, 1.88269702e-13]])
+```
+
+Supaya  lebih mudah dimengerti kita tambahkan varibel berikut ini
+
+```txt
+class_names = 'boston_lettuce green_leaf_lettuce red_leaf_lettuce red_swiss_chard green_swiss_chard romaine_lettuce plain_parsley curly_parsley dill beets leeks cilantro spinach collard dandelion green_kale black_kale carrot endive escarole'.split()
+len(class_names)
+```
+
+Akhirnya kita bisa menggunakan model kecerdasan buatan ini dengan cara ini
+
+```txt
+imagex=gray_array60
+
+import matplotlib.pyplot as plt
+
+# Display the imagex array in a smaller scale using a smaller figure size
+plt.figure(figsize=(2, 1))  # Adjust the size as needed
+plt.imshow(imagex, cmap='gray')  # Add 'cmap' if it's a grayscale image
+plt.axis('off')
+plt.show()
+
+for i in range(len(class_names)):
+    print(class_names[i], '     \t',\
+          int((lr.predict_proba(imagex.reshape(1,-1)) ).tolist()[0][i]*10000)/100)
+```
+
+yang mana akan menunjukkan hasil sepertti ini
+
+```txt
+boston_lettuce      	 0.0
+green_leaf_lettuce       0.0
+red_leaf_lettuce      	 0.0
+red_swiss_chard      	 0.0
+green_swiss_chard      	 0.0
+romaine_lettuce      	 0.0
+plain_parsley      	     0.0
+curly_parsley      	     0.0
+dill      	             0.0
+beets      	             0.0
+leeks      	             0.0
+cilantro      	         0.0
+spinach      	         0.0
+collard      	         0.0
+dandelion      	         0.0
+green_kale      	     0.0
+black_kale      	     0.0
+carrot      	         0.0
+endive      	         99.99
+escarole      	         0.0
+```
+
+![Description of gif](https://github.com/FT-cnc/koko/blob/main/image7.png?raw=true)
