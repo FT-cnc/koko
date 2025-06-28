@@ -23,26 +23,44 @@ Coba bandingkan dengan UMR di DKI, di mana gaji karyawan setidaknya bisa meningk
 Kembali ke soal kesetiaan pelanggan, di tengah pesatnya perkembangan dunia online, banyak toko fisik yang akhirnya gulung tikar. Namun, masih ada segmen pasar yang menawarkan pengalaman pelanggan yang berbeda. Tempat Yus bekerja, misalnya, lebih terasa seperti museum atau titik kumpul karena produk yang dijual tidak murah, kamar mandinya sekelas hotel bintang lima, dan pelayanannya pun jauh berbeda dibandingkan toko-toko diskon lainnya. Bisa dibilang, bisnis toko Yus tidak pernah terlalu khawatir terhadap resesi, karena mayoritas pelanggannya adalah para manula yang masih aktif dan tidak keberatan membelanjakan uang mereka. Tentu saja kita punya kompetitor, tetapi sejauh ini, kita masih mampu membuka 2–3 toko baru setiap tahun, dari total 40 toko yang sudah ada.
 
 ### Motivasi Karyawan
-Yus boleh dibilang sangat self-motivated walau bukan kaya kaya banget. Sebelum bekerja di sini Yus sudah melunasi utang dan kpr. Banyak orang masih pusing mau makan apa dan bagaimana bayar sewa belum lagi makin membesarnya biaya membesarkan anak anak. Sebelum meninggalkan Indonesia, Yus beruntung sempat bekerja di Batam dan belajar banyak dari keterbatasan di pabrik dan menerapkan banyak pemikiran yang sama di toko ini. Yus juga menghadiri kulian malam di bidang mesin bubut senin sampe jumat 6 jam sehari. Dari segi tingkat kehadiran Yus bisa dibilang paling handal. Selalu hadir baik di sekolah dan tempat kerja. Memang tidak gampang buat keluarga yang terkadang merasa kesepian. Buat Yus motivasi utama bekerja di sini adalah membakar kalori.
+Yus bisa dibilang sangat termotivasi secara mandiri, meskipun bukan berasal dari latar belakang yang serba berkecukupan. Sebelum bekerja di sini, Yus sudah berhasil melunasi utang dan kredit pemilikan rumah (KPR). Di saat banyak orang masih bingung memikirkan makanan sehari-hari dan bagaimana membayar sewa—belum lagi meningkatnya biaya untuk membesarkan anak—Yus merasa cukup beruntung. Sebelum meninggalkan Indonesia, ia sempat bekerja di Batam dan banyak belajar dari keterbatasan di lingkungan pabrik, lalu menerapkan berbagai pemikiran serupa di tempat kerja yang sekarang.  
+
+Yus juga mengikuti kuliah malam di bidang mesin bubut, dari Senin hingga Jumat selama enam jam per hari. Dari sisi kehadiran, Yus termasuk yang paling dapat diandalkan—selalu hadir, baik di sekolah maupun di tempat kerja. Tentunya, hal ini tidak selalu mudah bagi keluarga yang kadang merasa kesepian. Namun, bagi Yus, motivasi utama bekerja di sini adalah untuk membakar kalori.
 
 ### Unsur Politik
-Memang barang barang dari Amerika Latin, Timur Tengah, Eropa dan Asia Tenggara mulai berdatangan. Perlahan lahan ketergantungan dari negara jiran mulai dikurangi. Namun selama musim dingin negara jiran masih mampu men suplai barangnya dari daerah yang beriklim tropis. Kalau cuaca mulai panas, rantai pasok beralih lagi ke petani lokal. Cinta produk lokal memang ada baiknya namun kehandalan suplai nya juga diragukan karena indoor farming masih terlalu mahal untuk dioperasikan. Belum lagi ide ide seperti vertical farming yang bukan baru namun masih terlalu [**mahal**](https://agfundernews.com/the-economics-of-local-vertical-and-greenhouse-farming-are-getting-competitive),.
+Produk-produk dari Amerika Latin, Timur Tengah, Eropa, dan Asia Tenggara mulai berdatangan. Secara perlahan, ketergantungan terhadap negara jiran mulai dikurangi. Namun, selama musim dingin, negara jiran masih mampu memasok barang dari wilayah beriklim tropis. Saat cuaca mulai menghangat, rantai pasok beralih kembali ke para petani lokal.  
+
+Kecintaan terhadap produk lokal tentu patut diapresiasi, tetapi keandalan pasokannya masih diragukan, mengingat pertanian dalam ruangan (indoor farming) masih terlalu mahal untuk dioperasikan. Belum lagi gagasan seperti pertanian vertikal (vertical farming), yang meskipun bukan hal baru, tetap tergolong [**mahal**](https://agfundernews.com/the-economics-of-local-vertical-and-greenhouse-farming-are-getting-competitive) dalam praktiknya.
 
 ### Rantai Pasok
-Topik ini memang berat karena menggabungkan banyak hal terutama dari segi teknologi. Salah satunya yang paling sering di gembar gemborkan adalah kecerdasan buat dari sang mesin yang mampu memprediksi. Pencatatan inventory, stock level, automatic reorder ataupun expired notification hanya sebagian dari keseluruhan problema seputar rantai pasok. Untuk memperkecil topik pembahasan, Yus hanya akan menampilkan cerita dari kecerdasan buatan yang membantu pencatatan inventory melalu foto pertama di atas dan bagaimana list nya keluar melalui pengolahan citra. Stock Level sangat rentan dengan kualitas barang yang masuk dan bagaimana kita semua sebagai satu tim bekerja sama menangani barang barang. Contohnya Yus menangani sayur mayur, bisa jadi begitu datang barangnya udah busuk busuk atau sewaktu udah sampe lamban ditangani/dijual sampe membusuk percuma. Automatic reorder masih belum sepenuhnya berjalan. Sistem bisa memberi rekomendasi namun masuk banyak intervensi manual buat order resmi. Kiriman barang datang sangat bervariasi kualitasnya. Dunia pertanian tidak se eksak dunia semen misalnya. Kadang barang yang datang gemuk gemuk kadang kurus kering. Ini tugas Yus untuk merangkai ulang semuanya buat enak dipandang. Expired notification dari segi demand sudah berjalan baik, harga barang yang turun dalam kurung waktu tertentu bisa balik normal dan juga dari segi supply banyak petani lokal mulai menggantikan petani negara jiran belakangan ini karena menanam sayur dengan teknologi biasa sudah bisa dengan harga dan kualitas yang sama.
+
+Topik ini memang cukup kompleks karena mencakup berbagai aspek, terutama dari sisi teknologi. Salah satu hal yang paling sering disorot adalah kecerdasan buatan dari mesin yang mampu melakukan prediksi. Pencatatan inventaris, tingkat stok, pemesanan ulang otomatis, maupun notifikasi kedaluwarsa hanyalah sebagian dari tantangan dalam rantai pasok.  
+
+Untuk mempersempit ruang lingkup pembahasan, Yus akan fokus pada cerita tentang bagaimana kecerdasan buatan membantu pencatatan inventaris melalui foto pertama di atas, serta bagaimana daftar produk dihasilkan melalui pengolahan citra. Tingkat stok sangat dipengaruhi oleh kualitas barang yang diterima dan bagaimana seluruh tim bekerja sama dalam menangani produk. Misalnya, dalam penanganan sayur-mayur, bisa saja barang yang datang sudah membusuk, atau menjadi rusak karena terlambat ditangani dan dijual.  
+
+Sistem pemesanan ulang otomatis pun masih belum sepenuhnya berjalan optimal. Meskipun sistem dapat memberikan rekomendasi, prosesnya masih banyak melibatkan intervensi manual untuk melakukan pemesanan resmi. Kualitas barang yang diterima pun sangat bervariasi; dunia pertanian tidak setepat dunia industri semen, misalnya. Kadang barang yang datang tampak segar dan besar, kadang justru kecil dan layu. Di sinilah peran Yus untuk menyusun dan menata ulang agar tampilannya tetap menarik.  
+
+Dari sisi notifikasi kedaluwarsa yang terkait dengan permintaan, sistem sudah berjalan dengan baik—harga barang yang turun dalam rentang waktu tertentu dapat kembali ke harga normal. Sementara dari sisi pasokan, mulai terlihat peningkatan kontribusi dari petani lokal yang menggantikan peran petani dari negara tetangga, berkat penggunaan teknologi konvensional yang mampu menghasilkan sayur dengan harga dan kualitas yang setara.
 
 ## Pengolahan Citra
-Dari segi teknis, ada cerita lainnya disamping keringat peluh dan angkat angkat dari kerjaan ini. Coba simak gambar di atas yang menampilkan dinamika barang barang di gudang belakang selama dua minggu terakhir.
-tentu kerja di dalam kulkas lebih tidak terasa menyiksa karena temepraturnya antara 4-5 derajat. Kalau musim panas tempat ini enak juga jadinya. 
+
+Dari sisi teknis, ada cerita lain yang tak kalah menarik di balik keringat, peluh, dan aktivitas angkat-mengangkat dalam pekerjaan ini. Coba perhatikan gambar di atas yang memperlihatkan dinamika pergerakan barang di gudang belakang selama dua minggu terakhir.  
+
+Bekerja di dalam ruang pendingin sebenarnya terasa lebih nyaman, karena suhunya stabil di kisaran 4–5 derajat Celsius. Saat musim panas tiba, tempat ini justru menjadi lokasi kerja yang cukup menyenangkan.
 
 ![Description of gif](https://github.com/FT-cnc/koko/blob/main/image1.jpg?raw=true)
 
-Coba simak tulisan di dalam kotak kuning di atas. SPIN katakanlah singkatan dari spinach (bayam). Memang pengolahan citra sangat membantu menafsirkan tulisan apa yang tertulis di atas masing masing kotak.
-Cara lama memang segampang mengambil gambar dan mencatat ulang inventori gudang berdasarkan apa yang tertulis. Kita akan melompati proses klasifikasi dan pengelompokan seperti berikut ini
+
 
 ![Description of gif](https://github.com/FT-cnc/koko/blob/main/image2.png?raw=true)
 
-Dengan menggunakan account google, cobak simak link [**ini**](https://colab.research.google.com/drive/1HpR8_-ui5gHZwDNVXjsHyiys8EkRUs3I#scrollTo=5MCn6m648yV-), dimana akan kita bahas satu per satu.
+Coba perhatikan tulisan di dalam kotak kuning pada gambar di atas. "SPIN" adalah singkatan dari "spinach" (bayam). Dalam hal ini, teknologi pengolahan citra sangat membantu dalam menafsirkan tulisan yang tertera di masing-masing kotak.  
+
+Metode lama biasanya hanya melibatkan pengambilan gambar dan pencatatan ulang inventaris gudang secara manual, berdasarkan tulisan yang terlihat pada masing-masing kotak. Pendekatan semacam ini cukup memakan waktu dan rentan terhadap kesalahan.  
+
+Dengan pendekatan baru, kita dapat melewati proses manual tersebut dan langsung masuk ke tahap klasifikasi serta pengelompokan data secara otomatis, seperti yang akan dijelaskan berikut ini.  
+
+Dengan menggunakan akun Google, Anda dapat mencoba contoh program yang tersedia melalui tautan berikut [**ini**](https://colab.research.google.com/drive/1HpR8_-ui5gHZwDNVXjsHyiys8EkRUs3I#scrollTo=5MCn6m648yV-). Silakan simak dan eksplorasi bagaimana teknologi ini bekerja dalam praktik dimana akan dibahas satu per satu.
 
 ## Unggah Gambar
 Salah satu keterbatasan google colab yang kita pakai di sini adalah dihapusnya segala macam gambar secara otomatis kalau notebooknya tidak aktif selama sejam lebih. Tujuannya memang buat menghemat biaya.
