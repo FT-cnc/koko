@@ -8,7 +8,9 @@ Pekerjaan Yus lebih banyak berfokus pada sayur-mayur yang datang dalam kondisi s
 
 Yus bekerja enam hari dalam seminggu, selama 6 hingga 8 jam per hari. Ia mulai bekerja pukul enam pagi pada hari Jumat, Sabtu, dan Minggu, sementara di hari lainnya ia mulai pukul tujuh pagi. Awalnya, hari liburnya adalah setiap Kamis, tetapi belakangan berubah menjadi Senin.
 
-## Maksud Utama Membagi Cerita Ini Pertama-tama, ada baiknya Yus menjelaskan terlebih dahulu tujuan utama dari cerita ini. Cerita ini berkaitan dengan hal-hal seperti pencatatan inventaris, tingkat stok, pemesanan ulang otomatis, pemberitahuan kedaluwarsa, dan sebagainya. Prediksi terhadap permintaan dan pasokan memang sangat kompleks, karena tidak hanya bergantung pada loyalitas pelanggan atau tingkat kehadiran dan motivasi karyawan yang menjalankan operasi harian secara rutin, tetapi juga dipengaruhi oleh faktor-faktor politik (misalnya imbauan untuk membeli produk lokal, padahal produk asing masih jauh lebih murah dan berkualitas lebih baik), serta keterbatasan klasik seperti semakin kecilnya kapasitas gudang toko, sementara pusat distribusi cenderung mendorong kelebihan barang ke semua toko.
+## Maksud Utama Membagi Cerita Ini
+
+Pertama-tama, ada baiknya Yus menjelaskan terlebih dahulu tujuan utama dari cerita ini. Cerita ini berkaitan dengan hal-hal seperti pencatatan inventaris, tingkat stok, pemesanan ulang otomatis, pemberitahuan kedaluwarsa, dan sebagainya. Prediksi terhadap permintaan dan pasokan memang sangat kompleks, karena tidak hanya bergantung pada loyalitas pelanggan atau tingkat kehadiran dan motivasi karyawan yang menjalankan operasi harian secara rutin, tetapi juga dipengaruhi oleh faktor-faktor politik (misalnya imbauan untuk membeli produk lokal, padahal produk asing masih jauh lebih murah dan berkualitas lebih baik), serta keterbatasan klasik seperti semakin kecilnya kapasitas gudang toko, sementara pusat distribusi cenderung mendorong kelebihan barang ke semua toko.
 
 ### Kesetiaan Pelanggan
  
